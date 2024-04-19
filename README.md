@@ -17,7 +17,7 @@ You need Node.js and npm installed on your machine to run this project. You can 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pixabay-node-backend.git
+git clone https://github.com/cheligsher/MSApps-task-BE.git
 cd pixabay-node-backend
 ```
 
